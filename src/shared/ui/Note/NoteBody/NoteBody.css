@@ -1,0 +1,9 @@
+.NoteBody {
+    padding: 38px 30px;
+    border-radius: 6px;
+
+    color: var(--foregroundFrame);
+    background: var(--backgroundFrame);
+
+    font-size: 18px;
+}

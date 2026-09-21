@@ -1,0 +1,11 @@
+.NoteItem {
+    margin: 24px 0;
+}
+
+.NoteItem:first-child {
+    margin-top: 0;
+}
+
+.NoteItem:last-child {
+    margin-bottom: 0;
+}
