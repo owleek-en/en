@@ -13,7 +13,7 @@ export default function Template() {
           <h1>Have / Has</h1>
           <br />
           <p>
-            Have и Has - признак настояшего времени но форма меняется в
+            Have и Has (если они самостоятельные глаголы) - то это признак настояшего времени но форма меняется в
             зависимости от подлежащего (I/.../They)
           </p>
           <p>Для He/She/It используется Has</p>
@@ -21,19 +21,28 @@ export default function Template() {
           <br />
           <p>ex: They have a problem</p>
           <p>ex: He has a problem</p>
+          <br />
+          <p>Но если это вспомогательный глагол, то это может быть будущим perfect или настоящим perfect:</p>
+          <p>
+            I will have chosen a car. // Future Perfect
+          </p>
+          <p>
+            I have chosen a car. // Present Perfect
+          </p>
+          <p>Для Past времени have/has становится had</p>
         </NoteItem>
         <NoteItem>
           <h1>Had</h1>
           <br />
           <p>
-            Если had в предложении является вспомогательным глаголом, то это
-            всегда только V3 и никакие другие
-            <br />
+            Если had в предложении является вспомогательным глаголом, то используется всегда вместе только с V3
           </p>
+          <br />
           <p>
             Had - признак прошедшего времени, независит от подлежашего, для всех
             (I ... They) - had
           </p>
+          <p>Had - всегда прошлое независимо от того вспомогательный глагол или самостоятельный</p>
           <br />
           <p>ex: I had a car</p>
           <p>ex: He had a car</p>
@@ -106,6 +115,19 @@ export default function Template() {
               Т.е did может использоваться и в утрвердительном в Past Simple, но уже выступает в качестве самостоятельного глагола а не вспомогательного. <br />
               Пример: I did my homework. // Past Simple утвердительное - самостоятельный глагол do в форму V2<br />
               Пример: I didn't do my homework. //  Past Simple отрицательное - вспомогательный did not, а уже do - используется как смысловой основной 
+            </p>
+            <p>
+              DO <br /><br />
+              
+              Present: <br />
+              I/you/we/they → do <br />
+              he/she/it     → does <br /> <br />
+
+              Past: <br />
+              все → did <br /><br />
+
+              Future: <br />
+              все → will do
             </p>
             <p>
               V3 - в то время говорит что ему нужно вспомогательный глагол чтобы
