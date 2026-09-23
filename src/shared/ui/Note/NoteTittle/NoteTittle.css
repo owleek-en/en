@@ -1,0 +1,13 @@
+.NoteTittle {
+    margin: 24px 0;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.NoteTittle:first-child {
+    margin-top: 0;
+}
+
+.NoteTittle:last-child {
+    margin-bottom: 0;
+}
